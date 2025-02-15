@@ -28,5 +28,5 @@ The whole backend is coded in core PHP and MySql.
 * Done :)
 ## Authors
 
-https://github.com/Amarjit-Khan
+https://github.com/Shreyan-3218
 
